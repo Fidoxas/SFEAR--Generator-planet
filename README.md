@@ -5,5 +5,5 @@ Wymagania wstępne Unity: Aby otworzyć i uruchomić projekt, wymagane jest zain
 
 Instalacja Sklonuj lub pobierz repozytorium na swój lokalny komputer. Otwórz Unity Hub. Wybierz "Add" i wskaż folder, w którym sklonowałeś/pobrałeś projekt. Otwórz projekt w Unity.
 
-Jak użyć? Znajdź w hierarchy (Lista zazwyczaj po lewej stronie ekranu) obiekt Planet a w inspektorze pojawią sie jej ustawienia do modyfikowania, można stworzyć własną planete
+Jak użyć? Znajdź w hierarchy (Lista zazwyczaj po lewej stronie ekranu) obiekt Planet a w inspektorze pojawią się jej ustawienia do modyfikowania, można stworzyć własną planete
 
