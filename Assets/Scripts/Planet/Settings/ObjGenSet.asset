@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7537b073c614337b8d8453e6086902c, type: 3}
+  m_Name: ObjGenSet
+  m_EditorClassIdentifier: 
+  objectLayers:
+  - high: 0
+    enabled: 1
+    objectPrefab: {fileID: 2395935430081269854, guid: a0f5ed3b6e77f564a97f47b110b09db2, type: 3}
+    rarity: 2
+  - high: 0
+    enabled: 1
+    objectPrefab: {fileID: 7065205949597822357, guid: 4761e3642e591be4aabd7faeb96631d0, type: 3}
+    rarity: 1
+  - high: 0
+    enabled: 1
+    objectPrefab: {fileID: 4371257521876554091, guid: f7f5c3b979dc9854989435a6df43e7a3, type: 3}
+    rarity: 12
+  spawnChance: 60
